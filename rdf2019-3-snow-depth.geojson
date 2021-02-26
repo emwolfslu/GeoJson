@@ -1,0 +1,473 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.66603,63.157811,941 ]
+    },
+    "properties": {
+    "Site":"Maclaren R.",
+    "Year":2012,
+    "Month":4,
+    "Day":4,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1300,
+    "DepthSTD_mm":90,
+    "Density_kg_m3":290,
+    "SWE_mmwe":371
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.158481,63.128991,1185 ]
+    },
+    "properties": {
+    "Site":"Windy Cr. Upper",
+    "Year":2012,
+    "Month":4,
+    "Day":4,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":880,
+    "DepthSTD_mm":370,
+    "Density_kg_m3":280,
+    "SWE_mmwe":248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.395766,63.118771,939 ]
+    },
+    "properties": {
+    "Site":"Windy Cr. Lower",
+    "Year":2012,
+    "Month":4,
+    "Day":4,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":760,
+    "DepthSTD_mm":160,
+    "Density_kg_m3":270,
+    "SWE_mmwe":202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.434896,63.059016,817 ]
+    },
+    "properties": {
+    "Site":"Open spruce forest",
+    "Year":2012,
+    "Month":4,
+    "Day":4,
+    "VegClass":"Spruce",
+    "SnowDepth_mm":1050,
+    "DepthSTD_mm":100,
+    "Density_kg_m3":130,
+    "SWE_mmwe":141
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.530074,63.257383,943 ]
+    },
+    "properties": {
+    "Site":"Maclaren Glacier Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":11,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1430,
+    "DepthSTD_mm":150,
+    "Density_kg_m3":310,
+    "SWE_mmwe":440
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.58876,63.137773,996 ]
+    },
+    "properties": {
+    "Site":"Maclaren Glacier Trail",
+    "Year":2014,
+    "Month":4,
+    "Day":11,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1320,
+    "DepthSTD_mm":80,
+    "Density_kg_m3":330,
+    "SWE_mmwe":435
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.477197,63.155671,1023 ]
+    },
+    "properties": {
+    "Site":"7mile Lake Trail Upper",
+    "Year":2014,
+    "Month":4,
+    "Day":11,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":940,
+    "DepthSTD_mm":80,
+    "Density_kg_m3":250,
+    "SWE_mmwe":234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.471349,63.133462,965 ]
+    },
+    "properties": {
+    "Site":"7mile Lake Trail Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":11,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":790,
+    "DepthSTD_mm":100,
+    "Density_kg_m3":250,
+    "SWE_mmwe":197
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.430109,63.088219,1207 ]
+    },
+    "properties": {
+    "Site":"Top of Denali Hwy",
+    "Year":2014,
+    "Month":4,
+    "Day":12,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":950,
+    "DepthSTD_mm":170,
+    "Density_kg_m3":300,
+    "SWE_mmwe":287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.851509,63.044411,942 ]
+    },
+    "properties": {
+    "Site":"Clearwater/Denali Hwy",
+    "Year":2014,
+    "Month":4,
+    "Day":11,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":860,
+    "DepthSTD_mm":70,
+    "Density_kg_m3":240,
+    "SWE_mmwe":202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.125398,62.897426,711 ]
+    },
+    "properties": {
+    "Site":"Clearwater Cr.",
+    "Year":2014,
+    "Month":4,
+    "Day":10,
+    "VegClass":"Spruce",
+    "SnowDepth_mm":630,
+    "DepthSTD_mm":50,
+    "Density_kg_m3":210,
+    "SWE_mmwe":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.158738,63.128991,1198 ]
+    },
+    "properties": {
+    "Site":"Windy Cr. Upper",
+    "Year":2014,
+    "Month":4,
+    "Day":9,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1000,
+    "DepthSTD_mm":590,
+    "Density_kg_m3":330,
+    "SWE_mmwe":328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.390396,63.118867,946 ]
+    },
+    "properties": {
+    "Site":"Windy Cr. Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":9,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":690,
+    "DepthSTD_mm":120,
+    "Density_kg_m3":220,
+    "SWE_mmwe":153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.673837,63.216579,911 ]
+    },
+    "properties": {
+    "Site":"Shrub/Tundra",
+    "Year":2014,
+    "Month":4,
+    "Day":8,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":510,
+    "DepthSTD_mm":140,
+    "Density_kg_m3":280,
+    "SWE_mmwe":141
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.579837,63.059646,781 ]
+    },
+    "properties": {
+    "Site":"Spruce forest",
+    "Year":2014,
+    "Month":4,
+    "Day":9,
+    "VegClass":"Spruce",
+    "SnowDepth_mm":680,
+    "DepthSTD_mm":100,
+    "Density_kg_m3":220,
+    "SWE_mmwe":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.434757,63.058953,809 ]
+    },
+    "properties": {
+    "Site":"Open spruce forest",
+    "Year":2014,
+    "Month":4,
+    "Day":8,
+    "VegClass":"Spruce",
+    "SnowDepth_mm":720,
+    "DepthSTD_mm":70,
+    "Density_kg_m3":240,
+    "SWE_mmwe":173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.612772,63.006722,931 ]
+    },
+    "properties": {
+    "Site":"Low sparse shrubs",
+    "Year":2014,
+    "Month":4,
+    "Day":9,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1090,
+    "DepthSTD_mm":130,
+    "Density_kg_m3":280,
+    "SWE_mmwe":306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.631687,63.300358,1555 ]
+    },
+    "properties": {
+    "Site":"Two Plate Cr.",
+    "Year":2014,
+    "Month":4,
+    "Day":22,
+    "VegClass":"Rock",
+    "SnowDepth_mm":2590,
+    "DepthSTD_mm":230,
+    "Density_kg_m3":270,
+    "SWE_mmwe":687
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.73719,63.160123,1266 ]
+    },
+    "properties": {
+    "Site":"Maclaren Upper",
+    "Year":2014,
+    "Month":4,
+    "Day":22,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1760,
+    "DepthSTD_mm":230,
+    "Density_kg_m3":350,
+    "SWE_mmwe":610
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.707021,63.169479,1016 ]
+    },
+    "properties": {
+    "Site":"Maclaren Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":22,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":1310,
+    "DepthSTD_mm":80,
+    "Density_kg_m3":270,
+    "SWE_mmwe":348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.390396,63.118867,946 ]
+    },
+    "properties": {
+    "Site":"Windy Cr. Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":22,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":540,
+    "DepthSTD_mm":170,
+    "Density_kg_m3":210,
+    "SWE_mmwe":114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.035593,62.265812,954 ]
+    },
+    "properties": {
+    "Site":"Tyone Cr.",
+    "Year":2014,
+    "Month":4,
+    "Day":28,
+    "VegClass":"Spruce",
+    "SnowDepth_mm":110,
+    "DepthSTD_mm":100,
+    "Density_kg_m3":270,
+    "SWE_mmwe":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.467496,62.246431,1263 ]
+    },
+    "properties": {
+    "Site":"Oshetna Cr. Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":28,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":570,
+    "DepthSTD_mm":60,
+    "Density_kg_m3":270,
+    "SWE_mmwe":152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.801815,62.235944,1583 ]
+    },
+    "properties": {
+    "Site":"Oshetna Cr. Upper",
+    "Year":2014,
+    "Month":4,
+    "Day":28,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":430,
+    "DepthSTD_mm":140,
+    "Density_kg_m3":270,
+    "SWE_mmwe":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.942336,62.56089,1274 ]
+    },
+    "properties": {
+    "Site":"Kosina Cr. Upper",
+    "Year":2014,
+    "Month":4,
+    "Day":28,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":320,
+    "DepthSTD_mm":280,
+    "Density_kg_m3":230,
+    "SWE_mmwe":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.968805,62.667135,919 ]
+    },
+    "properties": {
+    "Site":"Kosina Cr. Lower",
+    "Year":2014,
+    "Month":4,
+    "Day":28,
+    "VegClass":"Shrub",
+    "SnowDepth_mm":230,
+    "DepthSTD_mm":130,
+    "Density_kg_m3":270,
+    "SWE_mmwe":60
+    }
+  }
+]
+}

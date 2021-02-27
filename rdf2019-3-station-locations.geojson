@@ -1,0 +1,1517 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.2456,63.5322,1398 ]
+    },
+    "properties": {
+    "Station":"West Fork On-Ice ESG1",
+    "File":"weather-station-west-fork-glacier-on-ice-2013.csv",
+    "Type":"AWS",
+    "Northing_m":7044911.053,
+    "Easting_m":487786.7677
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.8882,63.5307,1516 ]
+    },
+    "properties": {
+    "Station":"Susitna Off-Ice ESG2",
+    "File":"weather-station-susitna-glacier-off-ice-2013.csv",
+    "Type":"AWS",
+    "Northing_m":7044726,
+    "Easting_m":505559
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.184,63.5038,2079 ]
+    },
+    "properties": {
+    "Station":"Repeater ESR9",
+    "File":"",
+    "Type":"AWS",
+    "Northing_m":7041738,
+    "Easting_m":490839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.5961,63.43581,2133.089 ]
+    },
+    "properties": {
+    "Station":"EF1",
+    "File":"weather-station-EF1.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7034210.921,
+    "Easting_m":520152.8703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.781646,63.435891,1328.113 ]
+    },
+    "properties": {
+    "Station":"EF2",
+    "File":"weather-station-EF2.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7034174.984,
+    "Easting_m":510894.9261
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.811385,63.412697,1073.249 ]
+    },
+    "properties": {
+    "Station":"EF3",
+    "File":"weather-station-EF3.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7031585.917,
+    "Easting_m":509418.6874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.968787,62.667127,918.824219 ]
+    },
+    "properties": {
+    "Station":"Kosina Creek Lower",
+    "File":"weather-station-KosinaCreekLower.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6948874.863,
+    "Easting_m":450373.159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.968787,62.667127,918.824219 ]
+    },
+    "properties": {
+    "Station":"Kosina Creek Lower Extra Soil",
+    "File":"weather-station-KosinaCreekLowerExtraSoil.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6948874.863,
+    "Easting_m":450373.159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.942351,62.560888,1274.06 ]
+    },
+    "properties": {
+    "Station":"Kosina Creek Upper",
+    "File":"weather-station-KosinaCreekUpper.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6937019.773,
+    "Easting_m":451553.2338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.598688,63.41602,2103.941 ]
+    },
+    "properties": {
+    "Station":"Mac1",
+    "File":"weather-station-Mac1.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7032005.065,
+    "Easting_m":520037.5538
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.549751,63.354982,1396.162 ]
+    },
+    "properties": {
+    "Station":"Mac2",
+    "File":"weather-station-Mac2.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7025220.38,
+    "Easting_m":522528.7362
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.52738,63.305362,1018.191 ]
+    },
+    "properties": {
+    "Station":"Mac3",
+    "File":"weather-station-Mac3.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7019699.775,
+    "Easting_m":523688.8329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.70702,63.169533,1016 ]
+    },
+    "properties": {
+    "Station":"Maclaren Lower",
+    "File":"weather-station-MaclarenLower.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":7004512,
+    "Easting_m":514754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.736733,63.160203,1315 ]
+    },
+    "properties": {
+    "Station":"Maclaren Upper",
+    "File":"weather-station-MaclarenUpper.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":7003466,
+    "Easting_m":513262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.98582,63.59756,2075 ]
+    },
+    "properties": {
+    "Station":"NWTrib1",
+    "File":"weather-station-NWTrib1.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7052170,
+    "Easting_m":500703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.888175,63.530698,1516 ]
+    },
+    "properties": {
+    "Station":"Off-Ice HOBO",
+    "File":"weather-station-OffIce.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7044725.118,
+    "Easting_m":505561.1423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.467663,62.246396,1262.601562 ]
+    },
+    "properties": {
+    "Station":"Oshetna River Lower",
+    "File":"weather-station-OshetnaRiverLower.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6901716.913,
+    "Easting_m":475704.5185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.801704,62.235924,1582.913574 ]
+    },
+    "properties": {
+    "Station":"Oshetna River Upper",
+    "File":"weather-station-OshetnaRiverUpper.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6900720.474,
+    "Easting_m":458335.989
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.183975,63.503798,2079 ]
+    },
+    "properties": {
+    "Station":"Repeater HOBO",
+    "File":"weather-station-Repeater.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7041736.085,
+    "Easting_m":490842.1526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.616512,63.492876,1857.641 ]
+    },
+    "properties": {
+    "Station":"SU1",
+    "File":"weather-station-SU1.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7040563.122,
+    "Easting_m":519096.3352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.886965,63.511617,1245.242 ]
+    },
+    "properties": {
+    "Station":"SU3",
+    "File":"weather-station-SU3.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7042599.12,
+    "Easting_m":505625.0702
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.631655,63.300395,1554.737427 ]
+    },
+    "properties": {
+    "Station":"Two Plate Creek",
+    "File":"weather-station-TwoPlateCreek.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":7019111.857,
+    "Easting_m":518466.8023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.035632,62.26592,954 ]
+    },
+    "properties": {
+    "Station":"Tyone Creek",
+    "File":"weather-station-TyoneCreek.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6903805,
+    "Easting_m":498150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.170212,63.202885,1676.4 ]
+    },
+    "properties": {
+    "Station":"Valdez Creek",
+    "File":"weather-station-ValdezCreek.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":7008205.777,
+    "Easting_m":491438.2351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.079393,63.605241,1971.166 ]
+    },
+    "properties": {
+    "Station":"WF1",
+    "File":"weather-station-WF1.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7053028.739,
+    "Easting_m":496062.0208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.448899,63.486547,1122.644 ]
+    },
+    "properties": {
+    "Station":"WF5",
+    "File":"weather-station-WF5.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7039879.117,
+    "Easting_m":477641.5021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.236546,63.528695,1413.139 ]
+    },
+    "properties": {
+    "Station":"WFTranB",
+    "File":"weather-station-WFTranB.csv",
+    "Type":"HOBO glacier",
+    "Northing_m":7044518.82,
+    "Easting_m":488235.5534
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.39045,63.118838,940.61 ]
+    },
+    "properties": {
+    "Station":"Windy Creek Lower",
+    "File":"weather-station-WindyCreekLower.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6998889.777,
+    "Easting_m":480303.2345
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.159131,63.129042,1176.53 ]
+    },
+    "properties": {
+    "Station":"Windy Creek Upper",
+    "File":"weather-station-WindyCreekUpper.csv",
+    "Type":"HOBO tundra",
+    "Northing_m":6999976.777,
+    "Easting_m":491975.2352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.2479,63.0429,944.9 ]
+    },
+    "properties": {
+    "Station":"ALPINE CREEK LODGE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6990393.2,
+    "Easting_m":487461.6848
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.7214,63.9944,389.2 ]
+    },
+    "properties": {
+    "Station":"BIG DELTA AIRPORT AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7097017.422,
+    "Easting_m":562548.4209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.895,63.3952,649.8 ]
+    },
+    "properties": {
+    "Station":"CANTWELL 2 E AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7031022.544,
+    "Easting_m":405323.6366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.8441,63.3724,689.5 ]
+    },
+    "properties": {
+    "Station":"CANTWELL 4 E AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7028408.68,
+    "Easting_m":407793.022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.3,62.3,445 ]
+    },
+    "properties": {
+    "Station":"GAKONA 1 N AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6908759.252,
+    "Easting_m":588157.2783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.5331,62.1086,421.5 ]
+    },
+    "properties": {
+    "Station":"GLENNALLEN KCAM AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6887144.598,
+    "Easting_m":576553.9159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.4588,62.1591,476.1 ]
+    },
+    "properties": {
+    "Station":"GULKANA AIRPORT AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6892859.285,
+    "Easting_m":580297.1505
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.3,61.9,901.9 ]
+    },
+    "properties": {
+    "Station":"GUNSIGHT AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6863076.537,
+    "Easting_m":484235.3768
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.9943,63.8674,431.9 ]
+    },
+    "properties": {
+    "Station":"HEALY AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7083769.662,
+    "Easting_m":402004.5776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.11667,62.85,732.1 ]
+    },
+    "properties": {
+    "Station":"HIGH LAKE LODGE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6970648.118,
+    "Easting_m":392249.8143
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.58333,62.3,747.1 ]
+    },
+    "properties": {
+    "Station":"LAKE LOUISE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6907670.747,
+    "Easting_m":521609.0405
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.67889,62.45278,723.9 ]
+    },
+    "properties": {
+    "Station":"LAKE SUSITNA AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6924663.119,
+    "Easting_m":516568.6919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.53333,63.11667,894 ]
+    },
+    "properties": {
+    "Station":"MACLAREN RIVER AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6998673.873,
+    "Easting_m":523543.488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.2541,61.5663,52.4 ]
+    },
+    "properties": {
+    "Station":"MATANUSKA AGRICULTURAL EXPERIMENT STATION AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6827938.384,
+    "Easting_m":380278.4055
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.96917,63.7175,630.9 ]
+    },
+    "properties": {
+    "Station":"MCKINLEY PARK AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7067034.041,
+    "Easting_m":402724.0396
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.5741,62.933,720.5 ]
+    },
+    "properties": {
+    "Station":"MENTASTA LAKE 7 E BARTELL CREEK AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6982754.993,
+    "Easting_m":673867.4403
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.86667,61.98333,757.7 ]
+    },
+    "properties": {
+    "Station":"NELCHINA HIGHWAY CAM AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6872330.273,
+    "Easting_m":506987.2753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.0992,61.5888,65.8 ]
+    },
+    "properties": {
+    "Station":"PALMER JOB CORPS AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6830168.924,
+    "Easting_m":388584.2598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.49833,63.03222,823 ]
+    },
+    "properties": {
+    "Station":"PAXSON AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6990066.503,
+    "Easting_m":575974.4589
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.5014,62.9453,813.8 ]
+    },
+    "properties": {
+    "Station":"PAXSON ALASKA AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6980380.468,
+    "Easting_m":576044.8331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.5,62.95,839.1 ]
+    },
+    "properties": {
+    "Station":"PAXSON RIVER AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6980905.675,
+    "Easting_m":576103.6554
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.6181,62.71,792.5 ]
+    },
+    "properties": {
+    "Station":"RENEE ALASKA AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6953336.795,
+    "Easting_m":519535.767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.4992,61.8125,847.3 ]
+    },
+    "properties": {
+    "Station":"SHEEP MOUNTAIN LODGE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6853393.761,
+    "Easting_m":473692.8997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.693,62.0302,704.7 ]
+    },
+    "properties": {
+    "Station":"SNOWSHOE LAKE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6877582.476,
+    "Easting_m":516063.865
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.51667,62.53333,597.4 ]
+    },
+    "properties": {
+    "Station":"SOURDOUGH 1 N AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6934472.654,
+    "Easting_m":576326.3978
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.54083,63.14833,990.6 ]
+    },
+    "properties": {
+    "Station":"SUMMIT LAKE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7002951.309,
+    "Easting_m":573530.722
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.7,62.75,228.9 ]
+    },
+    "properties": {
+    "Station":"SUSITNA MEADOWS AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6960624.802,
+    "Easting_m":362099.5315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.9088,61.7138,167.6 ]
+    },
+    "properties": {
+    "Station":"SUTTON 1 W AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6843778.15,
+    "Easting_m":399095.9393
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.55,61.81667,798.6 ]
+    },
+    "properties": {
+    "Station":"TAHNETA PASS AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6853879.883,
+    "Easting_m":471019.7888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.095,62.32,106.7 ]
+    },
+    "properties": {
+    "Station":"TALKEETNA AIRPORT AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6913666.132,
+    "Easting_m":339639.4448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.53333,63.13333,777.8 ]
+    },
+    "properties": {
+    "Station":"THE GRACIOUS HOUSE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7000556.243,
+    "Easting_m":473108.9832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.1702,61.651,481.3 ]
+    },
+    "properties": {
+    "Station":"TONSINA AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6836664.455,
+    "Easting_m":596925.4069
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.76667,63.43333,734.9 ]
+    },
+    "properties": {
+    "Station":"TRIMS CAMP AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":7034463.511,
+    "Easting_m":561540.6675
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.7,62.51667,723 ]
+    },
+    "properties": {
+    "Station":"TYONE LAKE AK US",
+    "File":"",
+    "Type":"NCDC",
+    "Northing_m":6931775.739,
+    "Easting_m":515446.4064
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.47,63.09,822.96 ]
+    },
+    "properties": {
+    "Station":"Denali",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6995704,
+    "Easting_m":476267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.314,62.814,457.2 ]
+    },
+    "properties": {
+    "Station":"Devil Canyon",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6966985,
+    "Easting_m":382064
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.97,62.69,792.48 ]
+    },
+    "properties": {
+    "Station":"Kosina Creek",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6951424,
+    "Easting_m":450348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.831,62.703,182.88 ]
+    },
+    "properties": {
+    "Station":"Sherman",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6955679,
+    "Easting_m":355182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.89,63.53,1432.56 ]
+    },
+    "properties": {
+    "Station":"Susitna Glacier",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":7044647,
+    "Easting_m":505471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.51,62.84,701.04 ]
+    },
+    "properties": {
+    "Station":"Watana",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6968664,
+    "Easting_m":423102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.2456,63.5322,1398 ]
+    },
+    "properties": {
+    "Station":"ESG1",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":7044911.054,
+    "Easting_m":487786.7676
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.8882,63.5307,1584 ]
+    },
+    "properties": {
+    "Station":"ESG2",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":7044725.339,
+    "Easting_m":505559.9067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.55181,62.82949,720 ]
+    },
+    "properties": {
+    "Station":"ESM1",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6967544.246,
+    "Easting_m":420944.3886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.545,62.698611,630 ]
+    },
+    "properties": {
+    "Station":"ESM2",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6952127.928,
+    "Easting_m":472110.3906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.691111,62.767778,211 ]
+    },
+    "properties": {
+    "Station":"ESM3",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6962585.218,
+    "Easting_m":362636.0503
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.69714,61.4817,555 ]
+    },
+    "properties": {
+    "Station":"ESR1",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6822026.61,
+    "Easting_m":303146.657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.02713,62.85107,1314 ]
+    },
+    "properties": {
+    "Station":"ESR2",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6969413.12,
+    "Easting_m":447710.0099
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.22385,63.06363,1663 ]
+    },
+    "properties": {
+    "Station":"ESR3",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6993267.68,
+    "Easting_m":438146.609
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.1124,62.57859,609.6 ]
+    },
+    "properties": {
+    "Station":"ESR4",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6942494.133,
+    "Easting_m":340126.0913
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.78912,62.80896,1145 ]
+    },
+    "properties": {
+    "Station":"ESR5",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6967383.117,
+    "Easting_m":357834.237
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.92395,62.79995,1085 ]
+    },
+    "properties": {
+    "Station":"ESR6",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6964765.795,
+    "Easting_m":401891.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.38388,62.83294,405 ]
+    },
+    "properties": {
+    "Station":"ESR7",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6969223.808,
+    "Easting_m":378581.306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.6226,62.68124,1112 ]
+    },
+    "properties": {
+    "Station":"ESR8",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6950228.609,
+    "Easting_m":468120.7182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.46019,61.40533,10 ]
+    },
+    "properties": {
+    "Station":"ESS10",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6812835.216,
+    "Easting_m":315303.0057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.56185,61.48946,13 ]
+    },
+    "properties": {
+    "Station":"ESS15",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6822488.907,
+    "Easting_m":310392.2181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.51473,61.54418,20 ]
+    },
+    "properties": {
+    "Station":"ESS20",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6828441.884,
+    "Easting_m":313227.5596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.11595,62.29449,106.07 ]
+    },
+    "properties": {
+    "Station":"ESS30",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6910878.676,
+    "Easting_m":338417.7014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.14295,62.33764,100.58 ]
+    },
+    "properties": {
+    "Station":"ESS35",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6915749.473,
+    "Easting_m":337251.9146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.13681,62.39539,109.73 ]
+    },
+    "properties": {
+    "Station":"ESS40",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6922162.289,
+    "Easting_m":337881.7749
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.11629,62.52639,138.68 ]
+    },
+    "properties": {
+    "Station":"ESS45",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6936693.128,
+    "Easting_m":339645.6479
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.01509,62.61718,155.14 ]
+    },
+    "properties": {
+    "Station":"ESS50",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6946552.688,
+    "Easting_m":345322.7742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.38391,62.83052,259.38 ]
+    },
+    "properties": {
+    "Station":"ESS55",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6968954.378,
+    "Easting_m":378569.7973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.99381,62.79183,384.96 ]
+    },
+    "properties": {
+    "Station":"ESS60",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6963969.777,
+    "Easting_m":398301.9113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.77652,62.76491,430.68 ]
+    },
+    "properties": {
+    "Station":"ESS65",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6960646.993,
+    "Easting_m":409300.311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.53834,62.82299,450 ]
+    },
+    "properties": {
+    "Station":"ESS70",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6966803.741,
+    "Easting_m":421613.2112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.54729,62.69777,579.12 ]
+    },
+    "properties": {
+    "Station":"ESS80",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6952035.225,
+    "Easting_m":471992.4098
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.46019,61.40533,10 ]
+    },
+    "properties": {
+    "Station":"ESS10",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6812835.216,
+    "Easting_m":315303.0057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.56185,61.48946,13 ]
+    },
+    "properties": {
+    "Station":"ESS15",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6822488.907,
+    "Easting_m":310392.2181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.51473,61.54418,20 ]
+    },
+    "properties": {
+    "Station":"ESS20",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6828441.884,
+    "Easting_m":313227.5596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.11595,62.29449,106.07 ]
+    },
+    "properties": {
+    "Station":"ESS30",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6910878.676,
+    "Easting_m":338417.7014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.14295,62.33764,100.58 ]
+    },
+    "properties": {
+    "Station":"ESS35",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6915749.473,
+    "Easting_m":337251.9146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.13681,62.39539,109.73 ]
+    },
+    "properties": {
+    "Station":"ESS40",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6922162.289,
+    "Easting_m":337881.7749
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.11629,62.52639,138.68 ]
+    },
+    "properties": {
+    "Station":"ESS45",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6936693.128,
+    "Easting_m":339645.6479
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.01509,62.61718,155.14 ]
+    },
+    "properties": {
+    "Station":"ESS50",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6946552.688,
+    "Easting_m":345322.7742
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.38391,62.83052,259.38 ]
+    },
+    "properties": {
+    "Station":"ESS55",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6968954.378,
+    "Easting_m":378569.7973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.99381,62.79183,384.96 ]
+    },
+    "properties": {
+    "Station":"ESS60",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6963969.777,
+    "Easting_m":398301.9113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.77652,62.76491,430.68 ]
+    },
+    "properties": {
+    "Station":"ESS65",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6960646.993,
+    "Easting_m":409300.311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.53834,62.82299,450 ]
+    },
+    "properties": {
+    "Station":"ESS70",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6966803.741,
+    "Easting_m":421613.2112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.54729,62.69777,579.12 ]
+    },
+    "properties": {
+    "Station":"ESS80",
+    "File":"",
+    "Type":"SWHDN",
+    "Northing_m":6952035.225,
+    "Easting_m":471992.4098
+    }
+  }
+]
+}
